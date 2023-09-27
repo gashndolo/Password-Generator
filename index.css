@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    background-color: #273549;
+    padding-left: 40px; 
+    padding-top: 60px;
+}
+
+.head {
+    color: white;
+    font-size: 40px;
+    margin-bottom: 0px;
+}
+
+.subhead {
+    color: #4ADF86;
+    font-size: 40px;
+    margin: 0px;
+}
+
+p {
+    color: #D5D4D8;
+    font-family: "inter";
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+button {
+    background-color: #10B981;
+    padding: 9px 17px 9px 15px;
+    border: none;
+    color: white;
+    font-family: "inter";
+    border-radius: 5px;
+    margin-top: 50px;
+}
+hr {
+    border: 1px solid #2F3E53;
+    width: 60%;
+    text-align: left;
+    margin-left: 0;
+    margin-top: 18px;
+}
+.passwords {
+    display: flex;
+}
+.password {
+    color: #55F991;
+    margin-right: 20px;
+    background-color: #1f2937;
+    padding: 14px 35px 2px 35px;
+    border-radius: 5px;
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    font-family: "inter";
+    font-weight: thin;
+}
